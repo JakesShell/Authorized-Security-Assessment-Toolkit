@@ -6,9 +6,9 @@ Authorized Security Assessment Toolkit is a Python-based command-line project de
 
 The project focuses on three practical functions:
 
-- common port review
-- web security header review
-- remediation guidance
+- Common Port Review
+- Web Security Header Review
+- Remediation Guidance
 
 This repository is positioned as a portfolio project for security-minded software and IT roles. It demonstrates how to structure simple security utilities in a responsible, business-facing way.
 
@@ -17,10 +17,10 @@ This repository is positioned as a portfolio project for security-minded softwar
 This project maps to internal security review workflows used by:
 
 - IT administrators
-- junior security analysts
-- cybersecurity students
-- internal audit teams
-- engineering teams reviewing service exposure
+- Junior Security Analysts
+- Cybersecurity Students
+- Internal Audit Teams
+- Engineering Teams Reviewing Service Exposure
 
 A company may need to answer questions such as:
 
@@ -33,9 +33,9 @@ This toolkit is intended for authorized review only and should be used only on s
 ## Key Features
 
 - Command-line menu for selecting assessment options
-- Common port review for widely used service ports
-- Web security header review for a target URL
-- Remediation guidance based on findings
+- Common Port Review for widely used service ports
+- Web Security Header Review for a target URL
+- Remediation Guidance based on findings
 - Simple Python structure split into reusable modules
 
 ## Tech Stack
