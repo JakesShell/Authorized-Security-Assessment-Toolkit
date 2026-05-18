@@ -1,0 +1,8 @@
+services:
+  sentinelscope:
+    build: .
+    container_name: sentinelscope-console
+    ports:
+      - "5050:5050"
+    volumes:
+      - ./data:/app/data
