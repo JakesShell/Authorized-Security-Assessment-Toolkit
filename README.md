@@ -148,10 +148,11 @@ Important: The visible device count is best-effort. Some phones and laptops hide
 ## Run Locally
 
 ```powershell
-cd "C:\github-audit\Authorized-Security-Assessment-Toolkit"
+cd "C:\github-audit\SentinelScope-Security-Exposure-Review-Console"
 
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 python app.py
+
 
